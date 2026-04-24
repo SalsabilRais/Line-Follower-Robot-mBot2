@@ -48,6 +48,30 @@ The robot was programmed to follow a black line on a track using sensors and rea
 
 
 ---
+## ⚠️ Challenges & Difficulties
+- Managing robot speed while maintaining line tracking accuracy
+- Adjusting sensor sensitivity for different lighting conditions
+- Improving reaction time during sharp turns
+- Working under competition time constraints
 
+---
+
+## 🧠 Algorithm Logic
+- If center sensor detects line → move forward
+- If left sensor detects line → turn left
+- If right sensor detects line → turn right
+- Continuously adjust motor speed based on sensor input
+
+---
+
+## 📊 Performance
+- Stable line tracking on simple and curved paths
+- Fast response to direction changes
+- Successfully completed competition track
+
+---
+
+## 🌟 Conclusion
+This project improved my skills in robotics, programming, and real-time problem solving under competition conditions.
 ## 👩‍💻 Author
 - Salsabil Rais
