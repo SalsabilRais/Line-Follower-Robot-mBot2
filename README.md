@@ -37,5 +37,33 @@ The robot operates on a continuous closed-loop feedback cycle, dynamically adjus
 
 ## ⚙️ System Workflow
 
-```text
-[ Optical Line Sensors ] ──► [ CyberPi Controller (Real-Time Logic) ] ──► [ Differential Motor Speed Control ]
+> **[ Optical Line Sensors ]** ──► **[ CyberPi Controller (Real-Time Logic) ]** ──► **[ Differential Motor Speed Control ]**
+
+---
+
+## ⚠️ Engineering Challenges & Solutions
+- **Speed vs. Tracking Precision:** Balanced PWM motor power to maintain high velocity on straightaways without losing line lock during sharp turns.
+- **Ambient Lighting Sensitivity:** Calibrated sensor thresholds to prevent false readings caused by varying competition room lighting.
+- **Rapid Prototyping Under Pressure:** Iteratively tuned turning coefficients within strict competition time constraints.
+
+---
+
+## 📸 Project Gallery
+
+<img width="804" height="1050" alt="PIC3" src="https://github.com/user-attachments/assets/8deb1f2f-f434-48b2-bc2d-9160eb224a47" />
+<img width="872" height="1600" alt="PIC2" src="https://github.com/user-attachments/assets/44ecdc48-60d1-4fe1-ba19-08283faee182" />
+<img width="836" height="1117" alt="PIC1" src="https://github.com/user-attachments/assets/44914ab0-7257-4845-aa8e-c4ed78efb0d4" />
+
+---
+
+## 🚀 Skills Demonstrated
+- **Embedded Control Systems:** Closed-loop sensor-to-actuator feedback design.
+- **Robotics Programming:** Event-driven and real-time decision logic in mBlock.
+- **Teamwork & Competitive Engineering:** Rapid debugging, hardware calibration, and execution under pressure.
+
+---
+
+## 👩‍💻 Author
+**Salsabil Rais** — Embedded Systems & IoT Student (FST Tangier)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/salsabil-rais)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SalsabilRais)
